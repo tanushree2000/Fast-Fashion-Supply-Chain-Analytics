@@ -1,6 +1,6 @@
 # 🧪 Supply Chain Analytics with R
 
-This project dives into exploratory and operational analytics for a simulated supply chain system. Using R, we analyze multiple aspects of product movement—from production costs to customer satisfaction—to support smarter decision-making.
+This project dives into exploratory and operational analytics for a simulated supply chain system. Using R, we analyze multiple aspects of product movement from production costs to customer satisfaction to support smarter decision-making.
 
 ## 📁 Project Structure
 
